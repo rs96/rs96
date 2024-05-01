@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+I am a software developer with a focus in frontend web applications.
+
+I enjoy building creative 🎨 and accessible :accessibility: websites that add value to people's everyday life.
+
+My hobby away from the keyboard is athletics, which I run the long sprints duo of 400m and 800m. 🏃
 
 <!--
 **rs96/rs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
